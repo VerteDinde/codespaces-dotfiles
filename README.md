@@ -1,2 +1,3 @@
-# codespaces-dotfiles
-Some settings for codespaces
+# Codespaces Dotfiles
+
+Some settings for codespaces, namely git aliases and a few bash prompt customizations
